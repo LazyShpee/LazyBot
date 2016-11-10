@@ -1,0 +1,30 @@
+{
+  "name": "lazy-bot",
+  "version": "2.0.0",
+  "description": "Discord LazyBot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "npm bot.js --test"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "LazyShpee",
+  "license": "ISC",
+  "dependencies": {
+    "aesthetics": "^2.0.8",
+    "cheerio": "^0.22.0",
+    "colors": "^1.1.2",
+    "discord.js": "^10.0.1",
+    "express": "^4.14.0",
+    "flip-text": "^1.1.0",
+    "glob": "^7.1.1",
+    "jimp": "^0.2.27",
+    "jsonfile": "^2.4.0",
+    "node-opus": "^0.2.2",
+    "opusscript": "0.0.1",
+    "randomstring": "^1.1.5",
+    "request": "^2.78.0"
+  }
+}

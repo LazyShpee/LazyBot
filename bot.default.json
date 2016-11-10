@@ -1,0 +1,6 @@
+{
+    "token": "TOKEN GOES HERE",
+    "appid": "OPTIONNAL APP ID HERE",
+    "version": "2.0.0",
+    "modulesDirectory": "./bot_modules/"
+}

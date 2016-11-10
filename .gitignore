@@ -1,3 +1,8 @@
+# Bot safe sharing specific
+bot.json
+assets/*
+
+
 # Logs
 logs
 *.log
